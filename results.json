@@ -1,0 +1,168 @@
+{
+  "camera": {
+    "fx": 450.0,
+    "fy": 450.0,
+    "cx": 400.0,
+    "cy": 240.0,
+    "width": 800,
+    "height": 480
+  },
+  "counts": {
+    "in_frame": 9,
+    "outside_frame": 1,
+    "behind_or_near_plane": 2
+  },
+  "points": [
+    {
+      "index": 0,
+      "xyz": [
+        -1.0,
+        -0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        250.0,
+        150.0
+      ]
+    },
+    {
+      "index": 1,
+      "xyz": [
+        0.0,
+        -0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        400.0,
+        150.0
+      ]
+    },
+    {
+      "index": 2,
+      "xyz": [
+        1.0,
+        -0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        550.0,
+        150.0
+      ]
+    },
+    {
+      "index": 3,
+      "xyz": [
+        -1.0,
+        0.0,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        250.0,
+        240.0
+      ]
+    },
+    {
+      "index": 4,
+      "xyz": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        400.0,
+        240.0
+      ]
+    },
+    {
+      "index": 5,
+      "xyz": [
+        1.0,
+        0.0,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        550.0,
+        240.0
+      ]
+    },
+    {
+      "index": 6,
+      "xyz": [
+        -1.0,
+        0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        250.0,
+        330.0
+      ]
+    },
+    {
+      "index": 7,
+      "xyz": [
+        0.0,
+        0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        400.0,
+        330.0
+      ]
+    },
+    {
+      "index": 8,
+      "xyz": [
+        1.0,
+        0.6,
+        3.0
+      ],
+      "status": "in_frame",
+      "uv": [
+        550.0,
+        330.0
+      ]
+    },
+    {
+      "index": 9,
+      "xyz": [
+        8.0,
+        0.0,
+        2.0
+      ],
+      "status": "outside_frame",
+      "uv": [
+        2200.0,
+        240.0
+      ]
+    },
+    {
+      "index": 10,
+      "xyz": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "status": "behind_or_near_plane",
+      "uv": null
+    },
+    {
+      "index": 11,
+      "xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "status": "behind_or_near_plane",
+      "uv": null
+    }
+  ],
+  "convention": "camera frame: X right, Y down, Z forward; z is axial depth"
+}
